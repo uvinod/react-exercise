@@ -1,10 +1,10 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
  
 class Home extends Component {
   render() {
     return (
       <div>
-        <h2>HELLO</h2>        
+        <h2>HOME</h2>        
       </div>
     );
   }

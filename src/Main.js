@@ -1,12 +1,12 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 import {
     Route,
     NavLink,
     HashRouter
-  } from "react-router-dom";
-  import Home from "./Home";
-  import Onemap from "./Onemap";
-  import Stripe from "./Stripe";
+  } from 'react-router-dom';
+  import Home from './Home';
+  import Onemap from './Onemap';
+  import Stripe from './Stripe';
  
 class Main extends Component {
   render() {

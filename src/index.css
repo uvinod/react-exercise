@@ -1,10 +1,11 @@
 body {
+    font-family: sans-serif;
     background-color: #40A8B3;
     padding: 20px;
     margin: 0;
   }
   h1, h2, p, ul, li {
-    font-family: sans-serif;
+    
   }
   ul.header li {
     display: inline;
@@ -35,4 +36,21 @@ body {
   }
   .active {
     background-color: #0099FF;
+  }
+  .button__container {
+    margin-top: 200px;
+    text-align: center;
+  }
+  .button {
+    background-color:green;
+    border: none;
+    color: white;
+    font-size: 16px;
+    height: 40px;
+    width: 200px;
+    margin-left: 10px;
+  }
+  .input {
+      height: 28px;
+      padding: 5px;
   }
