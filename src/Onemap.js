@@ -5,7 +5,7 @@ class Onemap extends Component {
 
     constructor () {
         super()
-        this.state ={ 
+        this.state = { 
             blk_no: '',
             road_name: '',
         }
@@ -47,7 +47,7 @@ class Onemap extends Component {
         } = this.state;
         return (
             <div>
-                <h2>Onemap Postal Code API Integration using AXIOS JS</h2>        
+                <h2>Onemap Postal Code API Integration using AXIOS JS</h2> 
                 <br />
                 <form>
                     <table>
